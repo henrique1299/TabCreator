@@ -1,0 +1,96 @@
+private void btn10_Click(object sender, EventArgs e) { corda1_click(0); }
+private void btn20_Click(object sender, EventArgs e) { corda2_click(0); }
+private void btn30_Click(object sender, EventArgs e) { corda3_click(0); }
+private void btn40_Click(object sender, EventArgs e) { corda4_click(0); }
+private void btn50_Click(object sender, EventArgs e) { corda5_click(0); }
+private void btn60_Click(object sender, EventArgs e) { corda6_click(0); }
+private void btn11_Click(object sender, EventArgs e) { corda1_click(1); }
+private void btn21_Click(object sender, EventArgs e) { corda2_click(1); }
+private void btn31_Click(object sender, EventArgs e) { corda3_click(1); }
+private void btn41_Click(object sender, EventArgs e) { corda4_click(1); }
+private void btn51_Click(object sender, EventArgs e) { corda5_click(1); }
+private void btn61_Click(object sender, EventArgs e) { corda6_click(1); }
+private void btn12_Click(object sender, EventArgs e) { corda1_click(2); }
+private void btn22_Click(object sender, EventArgs e) { corda2_click(2); }
+private void btn32_Click(object sender, EventArgs e) { corda3_click(2); }
+private void btn42_Click(object sender, EventArgs e) { corda4_click(2); }
+private void btn52_Click(object sender, EventArgs e) { corda5_click(2); }
+private void btn62_Click(object sender, EventArgs e) { corda6_click(2); }
+private void btn13_Click(object sender, EventArgs e) { corda1_click(3); }
+private void btn23_Click(object sender, EventArgs e) { corda2_click(3); }
+private void btn33_Click(object sender, EventArgs e) { corda3_click(3); }
+private void btn43_Click(object sender, EventArgs e) { corda4_click(3); }
+private void btn53_Click(object sender, EventArgs e) { corda5_click(3); }
+private void btn63_Click(object sender, EventArgs e) { corda6_click(3); }
+private void btn14_Click(object sender, EventArgs e) { corda1_click(4); }
+private void btn24_Click(object sender, EventArgs e) { corda2_click(4); }
+private void btn34_Click(object sender, EventArgs e) { corda3_click(4); }
+private void btn44_Click(object sender, EventArgs e) { corda4_click(4); }
+private void btn54_Click(object sender, EventArgs e) { corda5_click(4); }
+private void btn64_Click(object sender, EventArgs e) { corda6_click(4); }
+private void btn15_Click(object sender, EventArgs e) { corda1_click(5); }
+private void btn25_Click(object sender, EventArgs e) { corda2_click(5); }
+private void btn35_Click(object sender, EventArgs e) { corda3_click(5); }
+private void btn45_Click(object sender, EventArgs e) { corda4_click(5); }
+private void btn55_Click(object sender, EventArgs e) { corda5_click(5); }
+private void btn65_Click(object sender, EventArgs e) { corda6_click(5); }
+private void btn16_Click(object sender, EventArgs e) { corda1_click(6); }
+private void btn26_Click(object sender, EventArgs e) { corda2_click(6); }
+private void btn36_Click(object sender, EventArgs e) { corda3_click(6); }
+private void btn46_Click(object sender, EventArgs e) { corda4_click(6); }
+private void btn56_Click(object sender, EventArgs e) { corda5_click(6); }
+private void btn66_Click(object sender, EventArgs e) { corda6_click(6); }
+private void btn17_Click(object sender, EventArgs e) { corda1_click(7); }
+private void btn27_Click(object sender, EventArgs e) { corda2_click(7); }
+private void btn37_Click(object sender, EventArgs e) { corda3_click(7); }
+private void btn47_Click(object sender, EventArgs e) { corda4_click(7); }
+private void btn57_Click(object sender, EventArgs e) { corda5_click(7); }
+private void btn67_Click(object sender, EventArgs e) { corda6_click(7); }
+private void btn18_Click(object sender, EventArgs e) { corda1_click(8); }
+private void btn28_Click(object sender, EventArgs e) { corda2_click(8); }
+private void btn38_Click(object sender, EventArgs e) { corda3_click(8); }
+private void btn48_Click(object sender, EventArgs e) { corda4_click(8); }
+private void btn58_Click(object sender, EventArgs e) { corda5_click(8); }
+private void btn68_Click(object sender, EventArgs e) { corda6_click(8); }
+private void btn19_Click(object sender, EventArgs e) { corda1_click(9); }
+private void btn29_Click(object sender, EventArgs e) { corda2_click(9); }
+private void btn39_Click(object sender, EventArgs e) { corda3_click(9); }
+private void btn49_Click(object sender, EventArgs e) { corda4_click(9); }
+private void btn59_Click(object sender, EventArgs e) { corda5_click(9); }
+private void btn69_Click(object sender, EventArgs e) { corda6_click(9); }
+private void btn110_Click(object sender, EventArgs e) { corda1_click(10); }
+private void btn210_Click(object sender, EventArgs e) { corda2_click(10); }
+private void btn310_Click(object sender, EventArgs e) { corda3_click(10); }
+private void btn410_Click(object sender, EventArgs e) { corda4_click(10); }
+private void btn510_Click(object sender, EventArgs e) { corda5_click(10); }
+private void btn610_Click(object sender, EventArgs e) { corda6_click(10); }
+private void btn111_Click(object sender, EventArgs e) { corda1_click(11); }
+private void btn211_Click(object sender, EventArgs e) { corda2_click(11); }
+private void btn311_Click(object sender, EventArgs e) { corda3_click(11); }
+private void btn411_Click(object sender, EventArgs e) { corda4_click(11); }
+private void btn511_Click(object sender, EventArgs e) { corda5_click(11); }
+private void btn611_Click(object sender, EventArgs e) { corda6_click(11); }
+private void btn112_Click(object sender, EventArgs e) { corda1_click(12); }
+private void btn212_Click(object sender, EventArgs e) { corda2_click(12); }
+private void btn312_Click(object sender, EventArgs e) { corda3_click(12); }
+private void btn412_Click(object sender, EventArgs e) { corda4_click(12); }
+private void btn512_Click(object sender, EventArgs e) { corda5_click(12); }
+private void btn612_Click(object sender, EventArgs e) { corda6_click(12); }
+private void btn113_Click(object sender, EventArgs e) { corda1_click(13); }
+private void btn213_Click(object sender, EventArgs e) { corda2_click(13); }
+private void btn313_Click(object sender, EventArgs e) { corda3_click(13); }
+private void btn413_Click(object sender, EventArgs e) { corda4_click(13); }
+private void btn513_Click(object sender, EventArgs e) { corda5_click(13); }
+private void btn613_Click(object sender, EventArgs e) { corda6_click(13); }
+private void btn114_Click(object sender, EventArgs e) { corda1_click(14); }
+private void btn214_Click(object sender, EventArgs e) { corda2_click(14); }
+private void btn314_Click(object sender, EventArgs e) { corda3_click(14); }
+private void btn414_Click(object sender, EventArgs e) { corda4_click(14); }
+private void btn514_Click(object sender, EventArgs e) { corda5_click(14); }
+private void btn614_Click(object sender, EventArgs e) { corda6_click(14); }
+private void btn115_Click(object sender, EventArgs e) { corda1_click(15); }
+private void btn215_Click(object sender, EventArgs e) { corda2_click(15); }
+private void btn315_Click(object sender, EventArgs e) { corda3_click(15); }
+private void btn415_Click(object sender, EventArgs e) { corda4_click(15); }
+private void btn515_Click(object sender, EventArgs e) { corda5_click(15); }
+private void btn615_Click(object sender, EventArgs e) { corda6_click(15); }
