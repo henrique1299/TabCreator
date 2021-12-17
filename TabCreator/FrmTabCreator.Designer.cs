@@ -155,7 +155,6 @@
             this.KeyPreview = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FrmTabCreator";
-            this.ShowIcon = false;
             this.Text = "TabCreator";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FrmTabCreator_Load);
